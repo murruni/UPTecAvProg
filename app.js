@@ -8,6 +8,7 @@ var express = require('express');
 var app = express();
 
 // mongoose connection
+/*
 var mongoose = require('mongoose');
 var mongoDB = 'mongodb://localhost:27017/inmobiliaria';
 mongoose.connect(mongoDB, {
@@ -17,6 +18,7 @@ mongoose.connect(mongoDB, {
 mongoose.Promise = global.Promise;
 var db = mongoose.connection;
 db.on('error', console.error.bind(console, 'MongoDB connection error:'));
+*/
 
 // middlewares compress all responses & parse application/json
 app.use(compression());
