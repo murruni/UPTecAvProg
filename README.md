@@ -1,8 +1,9 @@
 # UPTecAvProg
-Universidad de Palermo
-Técnicas Avanzadas de Programación
-Profesora Belén Alegre
+Universidad de Palermo <br />
+Técnicas Avanzadas de Programación <br />
+Profesora Belén Alegre <br /><br />
 
-Pablo Murruni <murruni@gmail.com>
+Pablo Murruni <b><murruni@gmail.com></b>
 
+npm install
 
